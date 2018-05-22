@@ -12,7 +12,7 @@
   <property name="test.dir" value="test"/>
   <property name="build.dir" value="build"/>
   <property name="dist.dir" value="dist"/>
-
+  <!-- ADDED TO DEMONSTRATE GITPUSH COMMAND -->
   <!-- Targets -->
 
   <target name="resolve" description="Retrieve dependencies with Ivy.">
